@@ -1,0 +1,54 @@
+/* Estilos para el encabezado */
+#header {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+#header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+/* Estilos para la sección de texto */
+.section-texts {
+  padding: 20px;
+  background-color: #444;
+  color: #fff;
+}
+
+.section-texts article {
+  margin-bottom: 20px;
+}
+
+.section-texts h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+/* Estilos para el texto en naranja */
+.text-orange {
+  color: #ff9900;
+}
+
+/* Estilos para la sección de texto adicional */
+section {
+  padding: 20px;
+  background-color: #555;
+  color: #fff;
+}
+
+section h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+body {
+  background-color: #222;
+  color: #fff;
+}
+
